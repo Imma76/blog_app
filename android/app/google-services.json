@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131612112662",
+    "project_id": "blog-app-6562a",
+    "storage_bucket": "blog-app-6562a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131612112662:android:8b64349b85c08d81724237",
+        "android_client_info": {
+          "package_name": "com.emmacoder.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131612112662-dqmrvdpjlplo4feor8rgb2s23uh0br5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABtm_il1amN3W7FnVLjA6lymYZ7WGSxzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131612112662-dqmrvdpjlplo4feor8rgb2s23uh0br5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
